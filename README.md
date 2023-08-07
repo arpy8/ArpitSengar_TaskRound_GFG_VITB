@@ -1,10 +1,8 @@
 # GFG Student Chapter - VIT Bhopal Website
 
+## Task 1: Create a website for GFG Student Chapter at VIT Bhopal
+
 ![Website Screenshot](assets/img/screenshot.webp)
-
-Welcome to the official repository for the GFG Student Chapter at VIT Bhopal's website!
-
-## Features
 
 - **Responsive Design:** The website is built to be responsive, ensuring that it looks great and functions well on various devices, including desktops, tablets, and mobile phones.
 
