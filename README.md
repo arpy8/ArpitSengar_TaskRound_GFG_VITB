@@ -1,6 +1,6 @@
 # GFG Student Chapter - VIT Bhopal Website
 
-![Website Screenshot](assets/img/screenshot.png)
+![Website Screenshot](assets/img/screenshot.webp)
 
 Welcome to the official repository for the GFG Student Chapter at VIT Bhopal's website!
 
